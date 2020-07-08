@@ -1,0 +1,18 @@
+{
+  "name": "line-embedder",
+  "version": "1.0.0",
+  "description": "Embed line to lines",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/line-embedder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/line-embedder/issues"
+  },
+  "homepage": "https://github.com/thzt/line-embedder#readme"
+}
